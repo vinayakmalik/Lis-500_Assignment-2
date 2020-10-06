@@ -96,3 +96,8 @@ a {
 .self-intro-button:hover {
   background-color: #042aa8;
 }
+
+.center {
+  display: block;
+  margin: auto;
+}
